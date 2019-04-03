@@ -1,15 +1,14 @@
 Experiment Details
-Participants watched Disney Pixar’s “Partly Cloudy” while lying in the scanner. There was no task; participants were simply instructed to lie still and watch the movie. The movie began after 10s of rest (black screen; TRs 1-5). The first 10s of the movie are the opening credits (disney castle, pixar logo; TRs 6-10). 
+Participants watched Disney Pixar’s “Partly Cloudy” while lying in the scanner. There was no task; participants were simply instructed to lie still and watch the movie. The movie began after 10s of rest (black screen; TRs 0-5). The first 10s of the movie are the opening credits (disney castle, pixar logo; TRs 6-10). 
 
 IPS = 168 TRs
 TR = 2s
 Experiment length: 5.6 minutes
 
 Pixar Movie Reverse Correlation Events
-Events defined by conducting reverse correlation analysis in two separate adult samples, using the average response in ToM brain regions (ToM events) and in the pain matrix (Pain events). Events listed are those that replicated across the two samples.  Onsets and Durations are noted in TRs (1 TR = 2s); scanner trigger = TR 1.
+Events defined by conducting reverse correlation analysis in two separate adult samples, using the average response in ToM brain regions (ToM events) and in the pain matrix (Pain events). Events listed are those that replicated across the two samples.  Onsets and Durations are noted in TRs (1 TR = 2s). 
 
 Event types: Theory of Mind (ToM), Physical Sensation/Pain (Pain)
-TRs identified by RC analysis, as reported in Richardson et al. 2018
 ToM Event Onsets; Durations 
 46; 2
 52; 3
@@ -29,77 +28,3 @@ Pain Event Onsets; Durations
 117; 3
 134; 3
 159; 2
-
-
-TIMING OF EVENTS FOR MODELING (taking into account hemodynamic lag (4s), scanner trigger = 0):
-All timings assume 10s from trigger until movie file begins to play.
-
-In seconds:
-Mental Event Onsets; Durations
-86; 4
-98; 6
-120; 4
-176; 16
-238; 6
-252; 8
-300; 6
-
-Pain Event Onsets; Durations
-70; 4
-92; 2
-106; 4
-136; 10
-194; 4
-210; 12
-228; 6
-262; 6
-312; 4
-
-In TRs when TR=2:
-Mental Event Onsets; Durations
-43; 2
-49; 3
-60; 2
-88; 8
-119; 3
-126; 4
-150; 3
-
-Pain Event Onsets; Durations
-35; 2
-46; 1
-53; 2
-68; 5
-97; 2
-105; 6
-114; 3
-131; 3
-156; 2
-
-### Comments added by Openfmri Curators ###
-===========================================
-
-General Comments
-----------------
-
-
-Defacing
---------
-Defacing was performed by submitter
-
-Quality Control
----------------
-Mriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/latest/
-
-Where to discuss the dataset
-----------------------------
-1) www.openfmri.org/dataset/ds000228/ See the comments section at the bottom of the dataset
-page.
-2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000228.
-3) Send an email to submissions@openfmri.org. Please include the accession number in
-your email.
-
-Known Issues
-------------
-N/A
-
