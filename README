@@ -32,7 +32,7 @@ Pain Event Onsets; Durations
 
 
 TIMING OF EVENTS FOR MODELING (taking into account hemodynamic lag (4s), scanner trigger = 0):
-All timings assume 10s from trigger until movie file begins to play.
+All timings assume 10s from trigger until movie begins to play.
 
 In seconds:
 Mental Event Onsets; Durations
